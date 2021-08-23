@@ -45,8 +45,5 @@ const Navigator = StackNavigator({
 * [Getting Started with React Native](https://www.packtpub.com/application-development/getting-started-react-native?utm_source=GitHub&utm_medium=repo&utm_campaign=9781785885181)
 
 
-
-
-
-
+------ Zenerini
 
